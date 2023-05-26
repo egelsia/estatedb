@@ -1,0 +1,29 @@
+{
+    "estates": [
+      {
+        "id": 1,
+        "title": "Luxury Villa",
+        "description": "A beautiful luxury villa with stunning views",
+        "seller": "John Doe",
+        "price": 1000000,
+        "image": "https://example.com/images/villa.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Cozy Cottage",
+        "description": "A charming cottage in the countryside",
+        "seller": "Jane Smith",
+        "price": 500000,
+        "image": "https://example.com/images/cottage.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Modern Apartment",
+        "description": "A stylish modern apartment in the city center",
+        "seller": "Mark Johnson",
+        "price": 750000,
+        "image": "https://example.com/images/apartment.jpg"
+      }
+    ]
+  }
+  
