@@ -11,10 +11,10 @@
       {
         "id": 2,
         "title": "Cozy Cottage",
-        "description": "A charming cottage in the countryside",
+        "description": "A charming cottage in the countryside by the lake.",
         "seller": "Jane Smith",
         "price": 500000,
-        "image": "https://www.pexels.com/tr-tr/fotograf/cim-alan-ve-agaclarin-yaninda-beyaz-ve-gri-ahsap-ev-280222/"
+        "image": "https://images.pexels.com/photos/65225/boat-house-cottage-waters-lake-65225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "description": "A stylish modern apartment in the city center",
         "seller": "Mark Johnson",
         "price": 750000,
-        "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "https://images.pexels.com/photos/15682040/pexels-photo-15682040/free-photo-of-kaldirim-is-maliye-kentsel.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       }
     ]
   }
