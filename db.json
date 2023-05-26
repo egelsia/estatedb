@@ -6,7 +6,7 @@
         "description": "A beautiful luxury villa with stunning views",
         "seller": "John Doe",
         "price": 1000000,
-        "image": "https://example.com/images/villa.jpg"
+        "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "description": "A charming cottage in the countryside",
         "seller": "Jane Smith",
         "price": 500000,
-        "image": "https://example.com/images/cottage.jpg"
+        "image": "https://www.pexels.com/tr-tr/fotograf/cim-alan-ve-agaclarin-yaninda-beyaz-ve-gri-ahsap-ev-280222/"
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "description": "A stylish modern apartment in the city center",
         "seller": "Mark Johnson",
         "price": 750000,
-        "image": "https://example.com/images/apartment.jpg"
+        "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       }
     ]
   }
