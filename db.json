@@ -1,29 +1,76 @@
 {
-    "estates": [
-      {
-        "id": 1,
-        "title": "Luxury Villa",
-        "description": "A beautiful luxury villa with stunning views",
-        "seller": "John Doe",
-        "price": 1000000,
-        "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      },
-      {
-        "id": 2,
-        "title": "Cozy Cottage",
-        "description": "A charming cottage in the countryside by the lake.",
-        "seller": "Jane Smith",
-        "price": 500000,
-        "image": "https://images.pexels.com/photos/65225/boat-house-cottage-waters-lake-65225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      },
-      {
-        "id": 3,
-        "title": "Modern Apartment",
-        "description": "A stylish modern apartment in the city center",
-        "seller": "Mark Johnson",
-        "price": 750000,
-        "image": "https://images.pexels.com/photos/15682040/pexels-photo-15682040/free-photo-of-kaldirim-is-maliye-kentsel.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      }
-    ]
-  }
-  
+  "estates": [
+    {
+      "id": 1,
+      "title": "Beautiful Villa",
+      "description": "Spacious and luxurious villa with stunning views.",
+      "seller": "John Doe",
+      "price": 500000,
+      "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Cozy Cottage",
+      "description": "Charming cottage nestled in the countryside.",
+      "seller": "Jane Smith",
+      "price": 250000,
+      "image": "https://images.pexels.com/photos/65225/boat-house-cottage-waters-lake-65225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Modern Apartment",
+      "description": "Sleek and contemporary apartment in the heart of the city.",
+      "seller": "Michael Johnson",
+      "price": 350000,
+      "image": "https://images.pexels.com/photos/15682040/pexels-photo-15682040/free-photo-of-kaldirim-is-maliye-kentsel.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Spacious Family Home",
+      "description": "Large family home with plenty of room for everyone.",
+      "seller": "Emily Davis",
+      "price": 450000,
+      "image": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Seaside Retreat",
+      "description": "Relaxing beachfront property with breathtaking ocean views.",
+      "seller": "David Wilson",
+      "price": 600000,
+      "image": "https://images.pexels.com/photos/632522/pexels-photo-632522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+    },
+    {
+      "id": 6,
+      "title": "Rustic Farmhouse",
+      "description": "Quaint farmhouse surrounded by picturesque countryside.",
+      "seller": "Sarah Thompson",
+      "price": 300000,
+      "image": "https://images.pexels.com/photos/235725/pexels-photo-235725.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "title": "Luxury Penthouse",
+      "description": "Exclusive penthouse apartment with top-of-the-line amenities.",
+      "seller": "Robert Miller",
+      "price": 800000,
+      "image": "https://images.pexels.com/photos/5845477/pexels-photo-5845477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "title": "Historic Mansion",
+      "description": "Grand mansion with a rich history and stunning architecture.",
+      "seller": "Olivia Wilson",
+      "price": 1200000,
+      "image": "https://images.pexels.com/photos/15604148/pexels-photo-15604148/free-photo-of-evler-bina-ev-park.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "title": "Mountain Retreat",
+      "description": "Cozy cabin nestled in the mountains, perfect for nature lovers.",
+      "seller": "Daniel Clark",
+      "price": 400000,
+      "image": "https://images.pexels.com/photos/1586298/pexels-photo-1586298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
